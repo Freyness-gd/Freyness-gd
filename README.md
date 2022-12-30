@@ -7,9 +7,10 @@
 <div size='20px'> Hello, I'm Gabriel.:smile: 
 </div>
 
+<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/Freyness-gd/Freyness-gd/master/prog.png" />
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - :book: I’m currently studying at TU Wien
 - :hammer_and_wrench: I'm passionate about programming and software architectures.
