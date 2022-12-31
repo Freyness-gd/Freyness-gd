@@ -39,3 +39,7 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
+  <br>
+  Profile Picture: ©Will Bullas Art Collections: fineartamerica.com/profiles/will-bullas
