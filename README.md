@@ -42,4 +42,6 @@
 
 <br>
   <br>
-  Profile Picture: ©Will Bullas Art Collections: fineartamerica.com/profiles/will-bullas
+  <p>
+    Profile Picture: ©Will Bullas Art Collections: fineartamerica.com/profiles/will-bullas
+  </p>
