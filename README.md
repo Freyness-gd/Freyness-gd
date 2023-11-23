@@ -22,6 +22,7 @@
 <a href= https://github.com/Freyness-gd?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/Freyness-gd?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/Freyness-gd?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 
 <h2> Connect with me <br>
 <a href = 'https://www.linkedin.com/in/gabriel-valentin-dinu/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -36,12 +37,3 @@
 | ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Freyness-gd&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Freyness-gd&theme=tokyonight) |
 | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freyness-gd&theme=tokyonight&exclude_repo=database-program)](https://github.com/Freyness-gd/github-readme-stats) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Freyness-gd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<br>
-  <br>
-  <p>
-    Profile Picture: ©Will Bullas Art Collections: fineartamerica.com/profiles/will-bullas
-  </p>
