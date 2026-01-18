@@ -1,19 +1,10 @@
-<h1> Hello, welcome to my GitHub profile!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hi there! :) </h1>
 <p align='center'>
 </p>
 
 [![Github](https://img.shields.io/github/followers/Freyness-gd?label=Follow&style=social)](https://github.com/Freyness-gd)
 
-<div size='20px'> Hello, I'm Gabriel. :smile: 
-</div>
-
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/Freyness-gd/Freyness-gd/master/prog.png" />
-<h2> About Me </h2>
-
-
-
-- :book: I’m currently studying at TU Wien
-- :hammer_and_wrench: I'm passionate about programming and software architectures.
   
 
 [//]: # (<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>)
@@ -31,10 +22,6 @@
 <h2> Connect with me <br>
 <a href = 'https://www.linkedin.com/in/gabriel-valentin-dinu/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/Freyness-gd'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-<br>
   
 [//]: # ([![Gabriel's GitHub Activity Graph]&#40;https://activity-graph.herokuapp.com/graph?username=Freyness-gd&theme=tokyonight&#41;]&#40;https://git.io/praveenscience&#41;)
 
